@@ -3,7 +3,7 @@ class Paper{
         var options={
             isStatic:false,
             friction:0.5,
-            density:1.2,
+            density:0.7,
         }
         this.radius = radius;
         this.image=loadImage("paper.png");
